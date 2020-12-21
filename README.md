@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I am Manpreet Kaur
+
+I'm a Data Science Enthusiast 🌱
+
+**Professional Summary:**
+
+- 🔭 I recently completed my Machine learning and Deep learning studies from ineuron.ai
+- 🌱 I am constantly learning and keep myself updated with the latest technologies in AI.
 
 
-**ManpreetKaur-Aus/ManpreetKaur-Aus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Things I'm good at :fire:**
 
-Here are some ideas to get you started:
+**Languages:**  Python, HTML, Embedded C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Framework:** Flask
+
+**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, keras, PyTorch, Keras, NLTK, Tensorflow.
 
