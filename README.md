@@ -10,7 +10,7 @@ I'm a Data Science Enthusiast 🌱
 
 **Things I'm good at :fire:**
 
-**Languages:**  Python, HTML, Embedded C.
+**Languages:**  Python, R, Basic HTML.
 
 **Framework:** Flask
 
